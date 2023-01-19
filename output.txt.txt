@@ -1,0 +1,6 @@
+
+ word count:
+python1
+course2
+deep1
+learning1
